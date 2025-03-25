@@ -21,8 +21,23 @@ A demo project showcasing a Healthcare Scheduler UI built with React and React N
 - **Node.js:** v20.10.0
 - **npm:** v10.2.3
 - **Yarn:** v1.22.19
-- **React:** [version] (insert the React version you're using)
-- **React Native:** [version] (insert the React Native version you're using)
+- **React (Web):** v19.0.0
+- **React Native (Mobile):** v0.76.7
+
+
+## Initialization Selections
+
+**Next.js web app:**
+- TypeScript: Yes
+- ESLint: Yes
+- Tailwind CSS: Yes
+- Code inside a `src/` directory: Yes
+- App Router: No
+- Turbopack for `next dev`: No
+- Import alias `@/*`: No
+
+**React Native mobile app (Expo):**
+- Template: tabs (TypeScript) with several example screens and tabs using react-navigation and TypeScript.
 
 ## Installation
 

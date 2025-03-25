@@ -1,0 +1,11 @@
+{
+  "name": "healthcare-scheduler-uis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alfredoi6/healthcare-scheduler-uis.git",
+  "author": "alfredo <alfredo@i6technology.us>",
+  "license": "MIT",
+  "devDependencies": {
+    "turbo": "^2.4.4"
+  }
+}
