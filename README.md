@@ -24,7 +24,6 @@ A demo project showcasing a Healthcare Scheduler UI built with React and React N
 - **React (Web):** v19.0.0
 - **React Native (Mobile):** v0.76.7
 
-
 ## Initialization Selections
 
 **Next.js web app:**
@@ -39,6 +38,10 @@ A demo project showcasing a Healthcare Scheduler UI built with React and React N
 **React Native mobile app (Expo):**
 - Template: tabs (TypeScript) with several example screens and tabs using react-navigation and TypeScript.
 
+## Mobile Development & Testing
+
+We are using **Expo Go** for mobile development and testing. To get started, you can scan the QR code provided by Expo CLI to run the mobile app on your physical device via the Expo Go app (available on both iOS and Android).
+
 ## Installation
 
 1. Clone the repository:
@@ -51,15 +54,15 @@ A demo project showcasing a Healthcare Scheduler UI built with React and React N
 3. Run the app:
 
    - For **web app**:
+     yarn dev
+   - For **mobile app** (requires Expo Go and Expo environment setup):
      yarn start
-   - For **mobile app** (requires React Native environment setup):
-     yarn react-native run-android # for Android
-     yarn react-native run-ios # for iOS
+     # Then, scan the QR code using Expo Go on your device
 
 ## Usage
 
 1. **Web app:** Open in your browser at `http://localhost:3000`
-2. **Mobile app:** Launch on your emulator or physical device.
+2. **Mobile app:** Launch on your emulator or physical device by scanning the QR code from Expo Go.
 
 ## Contributing
 
