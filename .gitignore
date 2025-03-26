@@ -1,3 +1,5 @@
 
 packages/shared-api/node_modules/
 /node_modules
+
+mockserver/node_modules/
