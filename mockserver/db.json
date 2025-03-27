@@ -1,6 +1,10 @@
 {
   "users": [
-    { "id": 1, "name": "John Doe" },
-    { "id": 2, "name": "Jane Smith" }
+    { "id": 1, "name": "John Doe", "role": "Doctor" },
+    { "id": 2, "name": "Jane Smith", "role": "Nurse" }
+  ],
+  "schedule": [
+    { "time": "09:00 AM", "staff": "John Doe" },
+    { "time": "10:00 AM", "staff": "Jane Smith" }
   ]
 }
